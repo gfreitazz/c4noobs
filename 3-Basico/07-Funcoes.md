@@ -1,6 +1,6 @@
 # Funções
 
-As funções são maneiras de fazer um código seperado da função principal, com o intuito de modularizar o código e isolar as responsabilidades.
+As funções são maneiras de fazer um código separado da função principal, com o intuito de modularizar o código e isolar as responsabilidades.
 
 
 Para declarar uma função é necessário colocar o tipo de retorno dela, e o nome na frente, seguido dos parâmetros entre parênteses (variáveis enviadas na chamada da função) e fazer um escopo de bloco com chaves. 
